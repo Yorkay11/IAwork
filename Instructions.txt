@@ -1,8 +1,0 @@
-
-
-INSTRUCTIONS:
-
-1- Avoir l'extension Live Preview instalee sur VsCode
-2- Ouvrir le dossier du projet dans VsCode et lancer le live avec le bouton Go Live
-situe dans le coin inferieur droit.
-3- Apercevoir le result dans le navigateur et dans la console du navigateur
